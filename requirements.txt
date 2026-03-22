@@ -1,0 +1,7 @@
+csdid
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+linearmodels
