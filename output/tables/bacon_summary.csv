@@ -1,0 +1,4 @@
+comparison_type,total_weight,mean_estimate,std_estimate,min_estimate,max_estimate,n_comparisons,weighted_mean
+Earlier vs Later Treated,0.3852,-0.0198,0.1048,-0.2443,0.1936,85,-0.01908500286652348
+Later vs Earlier Treated,0.6095,-0.0364,0.1366,-0.3907,0.3032,91,-0.04225618483417852
+Treated vs Never-Treated,0.0053,0.0691,0.1057,-0.0839,0.2644,14,0.2531719941662631
